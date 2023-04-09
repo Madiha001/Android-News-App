@@ -1,2 +1,7 @@
 # Android-News-App
-Youtube demo video link: https://www.veed.io/view/4c8b17a9-9a7e-4c08-a19c-784ae1f05376?panel=download
+
+• The application displays verified news articles, pictures, and videos approved at the backend, with options to browse, read, bookmark, and share news via social media.
+• The app offers a search facility, two modes (dark and light), and categorizes news into All News and Top Trending with separate screens for article view, bookmark, search, and home page.
+
+Youtube demo video link: https://youtu.be/qq-bYsAWcO0
+
